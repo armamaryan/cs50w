@@ -1,0 +1,40 @@
+#foo {
+    margin-left: 1000px;
+    display: grid;
+    padding: 10px;
+    grid-column-gap: 5px;
+    grid-row-gap: 10px;
+    grid-template-columns: 140px 100px auto;
+}
+#am {
+  
+    margin-left: 500px;
+}
+img {
+    margin-top: 180px;
+    margin-left: 500px;
+}
+#fxbox-container{
+    height:60px;
+    text-align: center;   } 
+  #fakebox{
+     display: block;
+     margin-left: 570px;
+      }
+  #fk{
+     border-radius: 22px;
+     display: block;
+     ;
+     max-width: 550px;
+  }
+  #k {
+      margin-top: 15px;
+      margin-left: 25px;
+  }
+  a {float: none;}
+  #d1 {
+    display: block;
+    margin-left: 570px; 
+    border-radius: 22px;
+     display: block;
+  }
